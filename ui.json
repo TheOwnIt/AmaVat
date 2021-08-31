@@ -1,0 +1,12 @@
+{
+  "defaultEntryPoint": "index.html",
+  "namespace": "Amavat",
+  "menuEntries": [
+    {
+      "label": "Amavat",
+      "menu": "data-exchange/export/amavat",
+      "urlKey": "amavat",
+      "entryPoint": "index.html"
+    }
+  ]
+}
