@@ -1,10 +1,10 @@
 {
-  "name": "KonsystemAmavat",
-  "description": "Amavat",
+  "name": "AmavatVatExport",
+  "description": "Amavat Vat Export",
   "namespace": "Amavat",
   "author": "SKM TK",
   "type": "backend",
-  "version": "0.9.8",
+  "version": "1.0.0",
   "pluginIcon": "icon_plugin_xs.png",
   "authorIcon": "icon_author_xs.png",
   "price": 0.00
